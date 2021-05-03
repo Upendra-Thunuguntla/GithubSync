@@ -1,0 +1,5 @@
+
+*.prefs
+target/classes/META-INF/maven/HackerRankScrapper/HackerRankDataScrapper/pom.properties
+*.class
+*.MF
